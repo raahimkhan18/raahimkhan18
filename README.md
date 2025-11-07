@@ -24,5 +24,5 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,sqlite,git,github,c++" height="48" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,sqlite,git,github,cpp" height="60" />
 </p>
