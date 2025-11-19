@@ -10,7 +10,7 @@
 - 📫 How to reach me: **raahimkhan18@gmail.com**
 - 🔗 All of my projects: **https://github.com/raahimkhan18**
 - 👨‍💻 My LeetCode Profile: **[https://leetcode.com/u/raahimkhan18/](https://leetcode.com/u/raahimkhan18/)**
-- 📝 Know about my experience / resume: https://drive.google.com/file/d/1vthWKy1PIl1GcTq3AbPPEucEAedPNPbo/view?usp=sharing
+- 📝 Know about my experience / resume: [https://drive.google.com/file/d/1vthWKy1PIl1GcTq3AbPPEucEAedPNPbo/view?usp=sharing](https://drive.google.com/file/d/1-dhgPjRzb0sqR0bElqM6zjOUddHRq_mG/view?usp=sharing)
 ---
 
 ### 🤝 Connect with Me
